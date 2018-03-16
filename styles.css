@@ -1,0 +1,275 @@
+body{
+	height:  100%;
+	/* background-image: url('images/code.jpeg'); */
+	/* background: cover; */
+	min-width: 1140px;
+}
+.nav{
+	width: 100%;
+	display: flex;
+	/* flex-direction: column; */
+	position: fixed;
+	top: 0;
+}
+.name{
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	padding: 15px 1% 15px 0px;
+	text-align: center;
+	display: block;
+	width: 100%;
+	color: white;
+	background-color: black;
+
+}
+.nav-social{
+	display: flex;
+	width: 100%;
+	background-color: white;
+}
+.email{
+	width: 25%;
+	padding: 5px 0px 5px 0px;
+}
+.envelope{
+	height: 50px;
+	width: 50px;
+	display: block;
+	margin: auto;
+}
+.github{
+	width: 25%;
+	padding: 5px 0px 5px 0px;
+}
+.github-i{
+	height: 50px;
+	width: 130px;
+	display: block;
+	margin: auto;
+	vertical-align: center;
+}
+.linkedin{
+	width: 25%;
+	padding: 5px 0px 5px 0px;
+}
+.linkedin-i{
+	height: 50px;
+	width: 50px;
+	display: block;
+	margin: auto;
+}
+.resume{
+	width: 25%;
+	padding: 5px 0px 5px 0px;
+}
+.resume-i{
+	height: 50px;
+	width: 50px;
+	display: block;
+	margin: auto;
+}
+.title-section{
+	height: 520px;
+	background: url('images/code.jpeg');
+	background-size: 100%;
+	max-width: 100%;
+}
+.title-text{
+	color: white;
+	max-width: 100%;
+	height: auto;
+	font-size: 60px;
+	text-align: center;
+	margin-top: 75px;
+	background: rgba(0,0,0,0.5);
+}
+.about{
+	width: 100%;
+	height: 375px;
+	display: flex;
+	/* margin-top: 150px; */
+	font-size: 20px;
+}
+h3{
+	text-align: center;
+}
+.me{
+	width: 100%;
+	color: white;
+	/* background: rgba(0,0,0,0.5); */
+	background: linear-gradient(#131862, white);
+	padding-left: 1%;
+}
+.pic{
+	width: 100%;
+	color: white;
+	font-size: 40px;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#2e4482,#87889c, #f18f15 );
+	/* padding: 1%; */
+}
+.zach-profile{
+	height: 315px;
+	width: 210px;
+	image-orientation: -90deg;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	display: block;
+}
+.project{
+width: 100%;
+	height: 275px;
+	display: flex;
+	/* margin-top: 110px; */
+}
+.project-description{
+	width: 100%;
+	font-size: 20px;
+	color: white;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#131862, white);
+	padding-left: 1%;
+}
+.studnets-screens{
+	/* width: 50%; */
+	font-size: 20px;
+	margin-left: 60%;
+}
+.project-demo{
+	width: 100%;
+	color: white;
+	display: inline;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#2e4482,#87889c, #f18f15 );
+}
+.center{
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 5%;
+}
+.project1-description{
+	width: 100%;
+	font-size: 20px;
+	color: white;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#131862, white);
+	padding-left: 1%;
+}
+.project1-demo{
+	width: 100%;
+	color: white;
+	display: inline;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#2e4482,#87889c, #f18f15 );
+}
+.project2-description{
+	width: 100%;
+	font-size: 20px;
+	color: white;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#131862, white);
+	padding-left: 1%;
+}
+.project2-demo{
+	width: 100%;
+	color: white;
+	display: inline;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#2e4482,#87889c, #f18f15 );
+}
+.project3-description{
+	width: 100%;
+	font-size: 20px;
+	color: white;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#131862, white);
+	padding-left: 1%;
+}
+.project3-demo{
+	width: 100%;
+	color: white;
+	display: inline;
+	/* background: rgba(0,0,0,0.8); */
+	background: linear-gradient(#2e4482,#87889c, #f18f15 );
+}
+.project-screen{
+	height: 200px;
+	width: 350px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.footer{
+	width: 100%;
+	height: 150px;
+	display: flex;
+	/* margin-top: 150px; */
+	bottom: 0;
+	left: 0;
+}
+.know{
+	width: 100%;
+	color: black;
+	background-color: white;
+	padding-left: 1%;
+}
+.learning{
+	width: 100%;
+	/* display: inline; */
+	color: white;
+	background-color: black;
+}
+.html{
+	height: 50px;
+	width: 50px;
+	margin-left: 50px;
+}
+.css3{
+	height: 50px;
+	width: 40px;
+}
+.javascript{
+	height: 50px;
+	width: 50px;
+}
+.python{
+	height: 50px;
+	width: 70px;
+}
+.node{
+	height: 50px;
+	width: 80px;
+}
+.jquery{
+	height: 50px;
+	width: 50px;	
+}
+.mysql{
+	height: 50px;
+	width: 80px;
+}
+.bootstrap{
+	height: 50px;
+	width: 50px;
+}
+.react{
+	height: 60px;
+	width: 60px;
+	margin-left: 200px;
+}
+.java{
+	height: 60px;
+	width: 40px;
+}
+.cplus{
+	height: 60px;
+	width: 60px;
+	
+}
+.unreal{
+	height: 70px;
+	width: 70px;
+	
+}

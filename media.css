@@ -1,0 +1,9 @@
+@media screen and (min-width:768px){
+	.nav{
+		flex-direction: row;
+	}
+	/* .title-section{
+		margin-top: 135px;
+	}
+	 */
+}
