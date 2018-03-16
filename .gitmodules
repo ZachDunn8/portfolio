@@ -1,3 +1,6 @@
 [submodule "pong"]
 	path = pong
 	url = https://github.com/ZachDunn8/pong.git
+[submodule "Pomodoro-Clock"]
+	path = Pomodoro-Clock
+	url = https://github.com/niktechnopro/Pomodoro-Clock.git
